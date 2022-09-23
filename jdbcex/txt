@@ -1,0 +1,45 @@
+1) Build
+Without DevOps, the cost of the consumption of the resources was evaluated based on the pre-defined individual 
+usage with fixed hardware allocation. And with DevOps, the usage of cloud, sharing of resources comes into the picture, 
+and the build is dependent upon the user's need, which is a mechanism to control the usage of resources or capacity.
+
+2) Code
+Many good practices such as Git enables the code to be used, which ensures writing the code for business, 
+helps to track changes, getting notified about the reason behind the difference in the actual and the expected output,
+ and if necessary reverting to the original code developed. The code can be appropriately arranged in files, folders, etc.
+  And they can be reused.
+
+3) Test
+The application will be ready for production after testing. In the case of manual testing, it consumes more time in
+ testing and moving the code to the output. The testing can be automated, which decreases the time for testing so that the time 
+ to deploy the code to production can be reduced as automating the running of the scripts will remove many manual steps.
+
+4) Plan
+DevOps use Agile methodology to plan the development. With the operations and development team in sync, 
+it helps in organizing the work to plan accordingly to increase productivity.
+
+5) Monitor
+Continuous monitoring is used to identify any risk of failure. Also, it helps in tracking the system accurately so that the health 
+of the application can be checked. The monitoring becomes more comfortable with services where the log data may get monitored
+ through many third-party tools such as Splunk.
+
+6) Deploy
+Many systems can support the scheduler for automated deployment. The cloud management platform enables users to 
+capture accurate insights and view the optimization scenario, analytics on trends by the deployment of dashboards.
+
+7) Operate
+DevOps changes the way traditional approach of developing and testing separately. The teams operate in a collaborative 
+way where both the teams actively participate throughout the service lifecycle. The operation team interacts with developers, and they come up with a monitoring plan which serves the IT and business requirements.
+
+8) Release
+Deployment to an environment can be done by automation. But when the deployment is made to the production environment, 
+it is done by manual triggering. Many processes involved in release management commonly used to do the deployment in the
+ production environment manually to lessen the impact on the customers.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
